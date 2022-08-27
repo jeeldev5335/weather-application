@@ -8,7 +8,7 @@ const Home = () => {
         >
             <div className="d-flex align-items-center">
                 <h1 className="me-2">AR Tech</h1>
-                <i className="bi bi-cloud-haze2-fill" style={{ "font-size": "40px" }}></i>
+                <i className="bi bi-cloud-haze2-fill" style={{ fontSize: "40px" }}></i>
             </div>
             <div>
                 <p>Free Weather App</p>
